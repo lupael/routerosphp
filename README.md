@@ -1,7 +1,7 @@
-# PHP Mikrotik Billing 
+# Mikrotik Billing System using API
 ----
 
-![N|phpmixbill](http://4.bp.blogspot.com/-3OWL5OI7pqU/VjocUDdzMDI/AAAAAAAAAiA/s_XJN0_mDlk/s640/Screenshot_8.png)
+![N|phpmixbill](https://camo.githubusercontent.com/330979044920d83d8acc206735545bb6050719f6/687474703a2f2f342e62702e626c6f6773706f742e636f6d2f2d334f574c354f49377071552f566a6f635544647a4d44492f41414141414141414169412f735f584a4e305f6d446c6b2f733634302f53637265656e73686f745f382e706e67)
 
 ----
 
@@ -43,7 +43,6 @@ Minimum Requirements
 - GD2 Image Library
 - MySQL Version 4.1.x and above
 
-can be Installed in Raspberry Pi Device.
 
 License
 ----
